@@ -1,24 +1,4 @@
-# README
+# Odin Kittens
+Set up a Rails app to be a data-producing API. All controller methods will render data instead of HTML. Drill to build a pure vanilla RESTful resource. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.theodinproject.com/lessons/ruby-on-rails-kittens-api
